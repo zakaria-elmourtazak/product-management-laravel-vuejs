@@ -45,3 +45,50 @@ The following dependencies were used in this project:
 
 - Laravel (version 8)
 - Vue.js (version 3)
+
+## Screenshot
+
+<h1 align="center">
+  <br>
+  <img src='images/login.jpeg' width='900'/> 
+  <br/>
+  Login page
+</h1>
+
+
+<h1 align="center">
+  <br>
+  <img src='images/home.png' width='900'/> 
+  <br/>
+  Home page
+</h1>
+
+
+<h1 align="center">
+  <br>
+  <img src='images/edit.png' width='900'/> 
+  <br/>
+  Login page
+</h1>
+
+<h1 align="center">
+  <br>
+  <img src='images/filter.png' width='900'/> 
+  <br/>
+  Filter
+</h1>
+
+
+<h1 align="center">
+  <br>
+  <img src='images/products.png' width='900'/> 
+  <br/>
+  Products page
+</h1>
+
+<h1 align="center">
+  <br>
+  <img src='images/validation.png' width='900'/> 
+  <br/>
+  Validation
+</h1>
