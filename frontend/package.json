@@ -1,0 +1,26 @@
+{
+  "name": "product-manangement",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0",
+    "dotenv": "^16.3.1",
+    "jquery": "^3.7.0",
+    "popper.js": "^1.16.1",
+    "vite": "^4.3.9",
+    "vuex": "^4.0.2"
+  }
+}
